@@ -1832,6 +1832,10 @@ input, select, textarea {
 			text-align: center;
 			border: 0;
 		}
+	
+	ul.wrap {
+		text-align: justify;
+	}
 
 /* Form */
 
