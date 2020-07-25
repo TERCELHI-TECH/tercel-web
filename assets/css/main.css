@@ -1742,6 +1742,10 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
+		article.wrap {
+			text-align: justify;
+		}
+
 /* Image */
 
 	.image {
